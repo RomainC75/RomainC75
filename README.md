@@ -2,9 +2,9 @@
 
 ## Who am I ?
 
-- developping since january 2021 ⌨️ 🖥️,
-- an alumni from the Ironhack 🎓 (fullStack dev in july 2022) ,
-- a passionnate musician 🎺🎹🎷🎸🎚️ who learned how to level up as a self-taught,
+- developper since january 2021 ⌨️ 🖥️,
+- graduated from the Ironhack 🎓 in fullStack webDev (july 2022) ,
+- a passionnate musician 🎺🎹🎷🎸🎚️.
 
 ## Some of my projects ?
 
@@ -33,3 +33,4 @@ Languages & Technologies: `React`, `Sass`, `Typescript`, `Integration` \
 <br/>
 <br/>
 
+Don't hesitate to send me an [email](mailto:rom.chenard@gmail.com) if you want to talk about coding, tech, project, music or just take a coffe in Paris.
