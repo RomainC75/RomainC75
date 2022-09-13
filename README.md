@@ -8,7 +8,7 @@
 
 ##Some of my projects ?
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/RomainC75/RomainC75/raw/main/bioCoop.png"/>](https://biocoop-ecommerce.netlify.app/)
+[<img align="left" height="94px" width="110px" alt="KPN" src="https://github.com/RomainC75/RomainC75/raw/main/bioCoop.png"/>](https://biocoop-ecommerce.netlify.app/)
 
 **BioCoop ECommerce FullStack application - aug-sept 2022** \
 [**MERN**](https://biocoop-ecommerce.netlify.app/) • [front-end](https://github.com/RomainC75/ecommerce-front) • [back-end](https://github.com/RomainC75/ecommerce-back) \
@@ -17,11 +17,11 @@ Languages & Technologies: `Typescript`, `React`, `MongoDb`, `Node`, `Puppeteer`,
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://biocoop-ecommerce.netlify.app/static/media/home-image.69e1cdaf5405eb227bdb.jpg"/>](https://biocoop-ecommerce.netlify.app/)
+[<img align="left" height="94px" width="110px" alt="KPN" src="https://github.com/RomainC75/RomainC75/raw/main/tetris.png"/>](https://biocoop-ecommerce.netlify.app/)
 
-**BioCoop ECommerce FullStack application** \
-[**MERN**](https://romainc75.github.io/IronHack-retroTetris-JS/) • [MyCode](https://github.com/RomainC75/IronHack-retroTetris-JS) \
-Languages & Technologies: `Typescript`, `React`, `MongoDb`, `Node`, `Puppeteer`, `Express` \
+**Good old Tetris** \
+[**VanillaJS**](https://romainc75.github.io/IronHack-retroTetris-JS/) • [MyCode](https://github.com/RomainC75/IronHack-retroTetris-JS) \
+Languages & Technologies: `Javascript`, `OOP` \
 <br/>
 <br/>
 
