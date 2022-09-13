@@ -1,4 +1,4 @@
-# Hi there ✨
+# Hi there I'm Romain 👋 !
 
 ## Who am I ?
 
@@ -37,7 +37,9 @@ Don't hesitate to send me an [email](mailto:rom.chenard@gmail.com) if you want t
 
 ## Other information 
 
-##### CodeWars account : [here 👷](https://www.codewars.com/users/Romain75)
+
+![Codewars](https://github.r2v.ch/codewars?user=Romain75&stroke=COLOR)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romainc75&show_icons=true&theme=radical)
 
