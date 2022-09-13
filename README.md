@@ -34,3 +34,11 @@ Languages & Technologies: `React`, `Sass`, `Typescript`, `Integration` \
 <br/>
 
 Don't hesitate to send me an [email](mailto:rom.chenard@gmail.com) if you want to talk about coding, tech, project, music or just take a coffe in Paris.
+
+## Other information 
+
+##### CodeWars account : [here 👷](https://www.codewars.com/users/Romain75)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romainc75&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainc75)](https://github.com/anuraghazra/github-readme-stats)
