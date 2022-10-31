@@ -43,4 +43,4 @@ Don't hesitate to send me an [email](mailto:rom.chenard@gmail.com) if you want t
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romainc75&show_icons=true&theme=radical)
 
-[![Romain's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainc75&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Romain's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainc75&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
