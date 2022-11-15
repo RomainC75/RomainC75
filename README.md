@@ -1,4 +1,5 @@
 # Hi there I'm Romain 👋 !
+[![wakatime](https://wakatime.com/badge/user/fcd1c6ad-0299-464b-857c-6244ad4083ce.svg)](https://wakatime.com/@fcd1c6ad-0299-464b-857c-6244ad4083ce)
 
 ## Who am I ?
 
