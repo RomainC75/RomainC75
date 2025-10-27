@@ -2,8 +2,8 @@
 
 ## Who am I ?
 
-- developper since january 2021 ⌨️ 🖥️,
-- graduated from the Ironhack 🎓 in fullStack webDev (mid-2021) ,
+- developper since 2021 ⌨️ 🖥️,
+- graduated from the Ironhack 🎓 in fullStack webDev (mid-2022) ,
 - a passionnate musician 🎺🎹🎷🎸🎚️.
 - [![wakatime](https://wakatime.com/badge/user/fcd1c6ad-0299-464b-857c-6244ad4083ce.svg)](https://wakatime.com/@fcd1c6ad-0299-464b-857c-6244ad4083ce)
 
